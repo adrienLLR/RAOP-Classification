@@ -5,3 +5,7 @@ Random Act Of Pizza is a subreddit where the users post their stories in order t
 ### Key Words
 
 Exploratory Data Analysis, Feature Engineering, Word2Vec, Text Feature Embedding, ROC AUC, PCA, Cross Validation, Linear Models, Gradient Boosting, TF-IDF, NMF
+
+### Note
+
+This project was done on Kaggle using Kaggle's Word2Vec model and files so the model might be down one day and the path for the input files need to be changed to run the code
