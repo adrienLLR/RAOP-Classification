@@ -8,4 +8,4 @@ Exploratory Data Analysis, Feature Engineering, Word2Vec, Text Feature Embedding
 
 ### Note
 
-This project was done on Kaggle using Kaggle's Word2Vec model and files so the model might be down one day and the path for the input files need to be changed to run the code
+This project was done on Kaggle using Kaggle's Word2Vec model and files so this Word2Vec model might be down one day and the path for the input files need to be changed to run the code
